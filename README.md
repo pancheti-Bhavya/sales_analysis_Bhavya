@@ -1,7 +1,6 @@
-Stock_Analysis_Bhavya
+# 📊 Stock Market Analysis 
 
-Stock Market Analysis – Python and SQL Project
-Project Overview:
+# Project Overview:
 
 This project analyzes historical stock market data to:
 Identify trading patterns
@@ -11,15 +10,9 @@ Apply data cleaning using business rules
 Build SQL analytics queries
 Visualize trends using Python
 
------------------------------------------------------------------------------------------------------------------
-OBJECTIVES
 
-Identify reliable stocks using historical data
-Analyze and predict stock price trends
-Understand factors influencing stock movement
 
-----------------------------------------------------------------------------------------------------------------
-PROJECT WORKFLOW
+# PROJECT WORKFLOW
 
 Data Loading
       ↓
@@ -37,37 +30,47 @@ Technical Analysis
       ↓
 Business Insights
 
--------------------------------------------------------------------------------------------------------------------------
-BUSINESS RULES APPLIED
+# Tech Stack
+Python	Data Processing & ETL
+Pandas	Data Cleaning & Transformation
+NumPy	Numerical Calculations
+MySQL	Data Storage & SQL Analytics
+Matplotlib	Data Visualization
 
-Missing Values Handling
+# OBJECTIVES
+
+Identify reliable stocks using historical data
+Analyze and predict stock price trends
+Understand factors influencing stock movement
+
+# BUSINESS RULES APPLIED
+
+# 1.Missing Values Handling
 close_price → Median per stock
 volume → 0
 high_price → max(open, close)
 low_price → min(open, close)
-Price Sanity Checks
+# 2.Price Sanity Checks
 high ≥ open & close
 low ≤ open & close
-Trend Classification
+# 3.Trend Classification
 UP / DOWN / NO_CHANGE
 
------------------------------------------------------------------------------------------------------------------
-TECHNICAL ANALYSIS PERFORMED
+# TECHNICAL ANALYSIS PERFORMED
 
 Daily closing price trends
 Volatility analysis using daily returns
 Volume vs price movement correlation
 Moving averages (7-day & 30-day)
 
-------------------------------------------------------------------------------------------------------------------
-OUTCOMES
+# Outcomes
 
 Cleaned and validated stock dataset
 Technical analysis visualizations
 Performance comparison across stocks
 Investment-oriented insights
------------------------------------------------------------------------------------------------------------------
-Output:
+
+# 🖼️ Visualizations
 
 1.Plot daily closing price trends per stock
 
