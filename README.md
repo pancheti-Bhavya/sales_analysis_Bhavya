@@ -9,12 +9,14 @@ Generate business insights
 Apply data cleaning using business rules
 Build SQL analytics queries
 Visualize trends using Python
+
 -----------------------------------------------------------------------------------------------------------------
 OBJECTIVES
 
 Identify reliable stocks using historical data
 Analyze and predict stock price trends
 Understand factors influencing stock movement
+
 ----------------------------------------------------------------------------------------------------------------
 PROJECT WORKFLOW
 
@@ -33,6 +35,7 @@ Trend Classification
 Technical Analysis
       ↓
 Business Insights
+
 -------------------------------------------------------------------------------------------------------------------------
 BUSINESS RULES APPLIED
 
@@ -46,6 +49,7 @@ high ≥ open & close
 low ≤ open & close
 Trend Classification
 UP / DOWN / NO_CHANGE
+
 -----------------------------------------------------------------------------------------------------------------
 TECHNICAL ANALYSIS PERFORMED
 
@@ -53,6 +57,7 @@ Daily closing price trends
 Volatility analysis using daily returns
 Volume vs price movement correlation
 Moving averages (7-day & 30-day)
+
 ------------------------------------------------------------------------------------------------------------------
 OUTCOMES
 
