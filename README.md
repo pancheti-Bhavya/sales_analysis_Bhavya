@@ -18,21 +18,22 @@ This project analyzes historical stock market data to uncover trading patterns, 
 
 ## PROJECT WORKFLOW
 
-Data Loading
-      ↓
-Duplicate Removal
-      ↓
-Missing Value Treatment
-      ↓
-Price Sanity Checks
-      ↓
-Daily Return Calculation
-      ↓
-Trend Classification
-      ↓
-Technical Analysis
-      ↓
+Data Loading  
+↓  
+Duplicate Removal  
+↓  
+Missing Value Treatment  
+↓  
+Price Sanity Checks  
+↓  
+Daily Return Calculation  
+↓  
+Trend Classification  
+↓  
+Technical Analysis  
+↓  
 Business Insights
+
 
 
 ## Tech Stack
